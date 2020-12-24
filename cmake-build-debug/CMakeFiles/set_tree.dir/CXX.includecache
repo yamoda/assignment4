@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayano/Desktop/projects/school/additional assignment 3/include/node.h
+set.h
+/home/ayano/Desktop/projects/school/additional assignment 3/include/set.h
+
+/home/ayano/Desktop/projects/school/additional assignment 3/include/set.h
+memory
+-
+
+/home/ayano/Desktop/projects/school/additional assignment 3/include/tree.h
+memory
+-
+iostream
+-
+set.h
+/home/ayano/Desktop/projects/school/additional assignment 3/include/set.h
+node.h
+/home/ayano/Desktop/projects/school/additional assignment 3/include/node.h
+
+/home/ayano/Desktop/projects/school/additional assignment 3/main.cpp
+iostream
+-
+include/set.h
+/home/ayano/Desktop/projects/school/additional assignment 3/include/set.h
+include/tree.h
+/home/ayano/Desktop/projects/school/additional assignment 3/include/tree.h
+include/node.h
+/home/ayano/Desktop/projects/school/additional assignment 3/include/node.h
+

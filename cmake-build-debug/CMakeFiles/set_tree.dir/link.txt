@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/set_tree.dir/main.cpp.o  -o set_tree 
